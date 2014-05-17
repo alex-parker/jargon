@@ -1,3 +1,16 @@
-Package containing some simple language-processing routines.
+Package containing some simple English-language processing routines.
 
 Requires nltk and numpy.
+
+===========================
+
+voice:
+	- determine if a sentence is written in active or passive voice.
+
+active_fraction:
+	- determine ratio of active to passive sentences in block of text.
+
+unique_word_roots:
+	- determine number of unique word roots in block of text.
+
+===========================
